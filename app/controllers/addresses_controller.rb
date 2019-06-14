@@ -1,0 +1,3 @@
+class AddressesController < SimpleResourcesController
+end
+
